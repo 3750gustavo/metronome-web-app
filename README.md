@@ -1,6 +1,6 @@
 # Enhanced Metronome with Fullscreen Slideshow and Image Settings
 
-This is a simple web application that combines a metronome with a fullscreen slideshow feature. It allows you to set the tempo (BPM), choose different sounds, and display images in a slideshow format while practicing tempo.
+This is a simple metronome image player with built-in metronome playback, image slideshow, accelerating/decelerating metronome, and more. Built with HTML, CSS, and JavaScript.
 
 ## Features
 - Adjustable tempo (BPM) using a slider
