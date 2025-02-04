@@ -1,5 +1,8 @@
 # Enhanced Metronome with Fullscreen Slideshow and Image Settings
 
+![Web APP screenshot](https://files.catbox.moe/p1xili.JPG)
+
+## Description
 This is a simple metronome image player with built-in metronome playback, image slideshow, accelerating/decelerating metronome, and more. Built with HTML, CSS, and JavaScript.
 
 ## Features
